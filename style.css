@@ -41,17 +41,14 @@ button:hover {
   display: block;
   width: 100%;
 }
-
 .aside-link {
   font-family: fantasy, cursive;
 }
-
 .main-container {
   display: block;
   width: 500px;
   margin: 0 auto 0;
 }
-
 .item-content {
   display: flex;
 }
@@ -68,7 +65,6 @@ h2,
   text-transform: uppercase;
 }
 
-
 /* New Task */
 .add-item {
   padding-top: 16px;
@@ -83,7 +79,6 @@ h2,
   display: inline-block;
   flex-grow: 1;
 }
-
 .add-item_btn:hover {
   color: #0fc57c;
 }
@@ -104,7 +99,6 @@ h2,
 .item > * {
   vertical-align: middle;
 }
-
 .item-checkbox {
   margin: 0 10px;
 }
@@ -165,12 +159,10 @@ h2,
 .item-field {
   display: none;
 }
-
 .item-edit_mode .item-field {
   display: inline-block;
   width: 224px;
 }
-
 .item-edit_mode .item-field {
   display: none;
 }
