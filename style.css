@@ -16,6 +16,9 @@ input,
 button {
   outline: none;
 }
+h1{
+  display: none;
+}
 button {
   background: none;
   border: 0px;
@@ -134,7 +137,6 @@ h2,
   display: inline-block;
   flex-grow: 1;
 }
-
 .item-field,
 .add-item_field {
   margin: 0;
